@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi 👋 I'm Sungwoong Jang
 
-<!--
-**Sungung1/Sungung1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI / Computer Vision Engineer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+Interested in
+
+Computer Vision  
+Deep Learning  
+AI Systems  
+
+---
+
+## Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,git,linux,vscode" />
+
+---
+
+## Tools
+
+<img src="https://skillicons.dev/icons?i=github,docker,linux,vscode" />
+
+---
+
+## Featured Projects
+
+### Worker Posture Analysis
+Computer vision system detecting unsafe worker posture using YOLO and Mediapipe.
+
+🔗 https://github.com/Sungung1/worker-posture-analysis
+
+---
+
+### Road Damage Detection
+Deep learning system detecting road cracks.
+
+🔗 https://github.com/Sungung1/road-damage-detection
+
+---
+
+### Agriculture Detection
+Computer vision model detecting crop disease.
+
+🔗 https://github.com/Sungung1/agriculture-detection
+
+---
+
+### Capstone Vision Project
+
+Based on the capstone design project:
+
+🔗 https://github.com/Sungung1/capstone-project
+
+---
+
+### News Summary NLP
+Automatic news summarization model.
+
+🔗 https://github.com/Sungung1/news-summary-nlp
